@@ -6,10 +6,6 @@
 
 **ChronoQuant** is an end-to-end data science project designed to uncover the hidden mathematical drivers behind luxury watch pricing. Instead of relying on "brand hype," this engine uses **Random Forest Regression** and **Advanced Exploratory Data Analysis (EDA)** to determine whether a timepiece is priced based on its engineering or its prestige.
 
----
-
-## 🚀 The Lead Data Scientist Workflow
-
 ### **1. 🧹 Data Cleaning & Feature Engineering**
 * **Regex Extraction:** Leveraged Regular Expressions to strip symbols from messy strings (e.g., converting `$9,500` and `300 meters` into clean numeric floats).
 * **Unit Standardization:** Engineered a custom function to standardize `Power Reserve` by converting "days" into "hours," allowing for a uniform comparison across mechanical and solar movements.
