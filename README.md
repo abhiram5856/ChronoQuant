@@ -18,7 +18,7 @@
 
 * 🏷️ **Brand & Market Dynamics:** Utilized **Logarithmic Scaling** on Price Boxplots to visualize the massive "Value Gap" between entry-level luxury and *Haute Horlogerie* (Patek Philippe, AP).
 * 
-* ⚙️ **The Craftsmanship Premium:** Proved a statistically significant price premium for **Manual** and **Automatic** movements over Quartz, quantifying the market value of mechanical tradition.
+* ⚙️ **The Craftsmanship Premium:** Proved a statistically significant price premium for **Solar** and **Automatic** movements over Quartz, quantifying the market value of mechanical tradition.
 * 
 * 📏 **Anatomy of Luxury:** Created **Dimension Bubble Charts** to identify the "Ultra-Thin" high-premium quadrant—where smaller, thinner watches often command higher prices due to engineering complexity.
 * 
